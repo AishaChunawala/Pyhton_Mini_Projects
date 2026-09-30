@@ -6,9 +6,3 @@ A collection of mini-projects and practical programming assignments developed as
 
 ## 📂 Project Structure
 
-```text
-Python_Mini_Projects/
-├── project_name_1/      # Brief description of what it does
-├── project_name_2/      # Brief description of what it does
-├── scripts/             # Utility scripts and logical problem solvers
-└── README.md
