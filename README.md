@@ -1,25 +1,34 @@
 # 🐍 Python Mini Projects
 
-A collection of foundational Python scripts and practical college assignments showcasing core programming concepts, basic arithmetic operations, and data handling.
+A collection of foundational Python scripts, practice exercises, and college practical assignments showcasing core programming concepts, control structures, arithmetic operations, and basic data handling.
 
 ---
 
-## 📂 Scripts Included
+## 📂 Repository Structure
 
+### 📝 Practice Exercises
 | Script Name | Description | Key Concepts / Operations |
 | :--- | :--- | :--- |
-| **`Addition.py`** | Takes two numbers as input and computes their sum. | Basic I/O, Arithmetic Operations |
-| **`Convert Km to miles`** | Converts a distance value given in kilometers to miles. | Formula implementation (`km * 0.621371`) |
-| **`Convert celsius into fahrenheit.py`** | Converts temperature readings from Celsius to Fahrenheit. | Mathematical conversion logic |
-| **`Generate a random number.py`** | Generates and prints a random integer within a specific range. | Built-in `random` module |
-| **`Hello.py`** | A classic introductory script displaying a greeting message. | Basic syntax and output (`print`) |
-| **`Name and age.py`** | Accepts user input for name and age, then greets them back. | User input handling (`input()`) |
+| **`Practice 1 Hello.py`** | Introductory script displaying a standard greeting message. | Basic syntax, `print()` output |
+| **`Practice 2 Addition of 2 numbers.py`** | Takes two numerical inputs and computes their sum. | Basic I/O, Arithmetic Operations |
+| **`Practice 3 Name and age.py`** | Accepts user input for name and age, then greets them back. | User input handling (`input()`) |
+| **`Practice 4 Student Exam info.py`** | Stores and displays student examination details and results. | Dictionaries, Data structures |
+| **`Practice 5 Student Info.py`** | Manages and displays basic student profile information. | Variables, basic data handling |
+| **`Practice 6 Convert Celcius into Fahrenheit.py`** | Converts temperature readings from Celsius to Fahrenheit. | Mathematical formulas, conversion logic |
+
+### 🔬 Practical Assignments
+| Script Name | Description | Key Concepts / Operations |
+| :--- | :--- | :--- |
 | **`Practical 1.1 Area of Circle.py`** | Calculates the area of a circle given its radius. | Mathematical formulas, constants (`pi`) |
 | **`Practical 1.2 Area of Triangle.py`** | Computes the area of a triangle based on base and height. | Arithmetic calculations |
 | **`Practical 1.3 Area of Rectangle.py`** | Calculates the area of a rectangle using length and width. | Multiplication logic |
-| **`Student Exam info.py`** | Stores and displays student examination details and results. | Dictionaries / Data structures |
-| **`Student Info.py`** | Manages and displays basic student profile information. | Variables, basic data handling |
-| **`Swap 2 number.py`** | Swaps the values of two variables (with or without a temporary variable). | Variable assignment logic |
+| **`Practical 2 Swap Two Variables.py`** | Swaps the values of two variables with or without a temporary variable. | Variable assignment logic |
+| **`Practical 3 Generate a Random Number.py`** | Generates and prints a random integer within a defined range. | Built-in `random` module |
+| **`Practical 4 Convert Kilometres to Miles.py`** | Converts a distance value given in kilometers to miles. | Formula implementation (`km * 0.621371`) |
+| **`Practical 5 Find maximum of two numbers.py`** | Compares two numbers and outputs the larger one. | Conditional statements (`if-else`) |
+| **`Practical 6 Check if a number is even or odd.py`** | Determines whether an input number is even or odd. | Modulo operator (`%`), Conditionals |
+| **`Practical 7 Check if a number is positive, negative or zero.py`** | Evaluates the sign of an entered number. | Nested conditionals (`if-elif-else`) |
+| **`Practical 8 Minimum number of desks.py`** | Mathematical logic problem solving to calculate minimum resources required. | Arithmetic, integer division |
 
 ---
 
@@ -27,4 +36,4 @@ A collection of foundational Python scripts and practical college assignments sh
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/Python_Mini_Projects.git](https://github.com/your-username/Python_Mini_Projects.git)
+   git clone [https://github.com/AishaChunawala/Python_Mini_Projects.git](https://github.com/AishaChunawala/Python_Mini_Projects.git)
